@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WearDateFrom</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+	<string name="insert_the_name">Insérer le nom</string>
+	<string name="insert_the_date">Insérer la date</string>
+	<string name="calculate">Calculer</string>
+	<string name="you_meet">Vous avez rencontré</string>
+	<string name="about">about</string>
+	<string name="days_ago">il y a quelques jours</string>
+	<string name="invalid_rvalue">Valeur invalide</string>
+	<string name="is_your_anniversary">C\'est votre anniversaire</string>
+	<string name="is_your_mesiversary">C\'est votre mois anniversaire</string>
+	<string name="license">Ce programme est sous GPL v3+</string>
+</resources>
