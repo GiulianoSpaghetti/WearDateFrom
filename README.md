@@ -1,5 +1,5 @@
 # WearDateFrom
-The datefrom for android wear. It's internazionalizated in english, italian, detusche, portuguese an spanish and save preferences.
+The datefrom for android wear. It's internazionalizated in english, italian, detusche, portuguese and spanish and saves preferences.
 
 # Bibliografia
 
