@@ -4,3 +4,5 @@ The datefrom for android wear. It's internazionalizated in english, italian, det
 # Bibliografia
 
 https://developer.android.com/training/data-storage/shared-preferences
+
+https://developer.android.com/guide/topics/resources/localization
