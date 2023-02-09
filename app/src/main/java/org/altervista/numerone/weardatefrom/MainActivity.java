@@ -3,11 +3,13 @@ package org.altervista.numerone.weardatefrom;
 import static android.app.PendingIntent.getActivity;
 
 import android.app.Activity;
+import android.app.DatePickerDialog;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -24,6 +26,7 @@ public class MainActivity extends Activity {
         private EditText date, name;
         private TextView result, anniversary;
         private ActivityMainBinding binding;
+        private DatePickerDialog datePickerDialog;
     @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);

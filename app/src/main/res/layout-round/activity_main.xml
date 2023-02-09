@@ -46,12 +46,14 @@
             android:layout_marginLeft="20dp"
             android:text="@string/license"
             android:textSize="10dp" />
+
         <TextView
-            android:textSize="10dp"
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_marginLeft="45dp"
-         android:id="@+id/textView2"
-         android:layout_width="wrap_content"
-         android:layout_height="wrap_content" />
+            android:text="@string/copyright"
+            android:textSize="10dp" />
         <Button
             android:textSize="10dp"
             android:layout_marginLeft="50dp"

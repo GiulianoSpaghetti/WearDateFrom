@@ -14,4 +14,5 @@
 	<string name="is_your_anniversary">C\'est votre anniversaire</string>
 	<string name="is_your_mesiversary">C\'est votre mois anniversaire</string>
 	<string name="license">Ce programme est sous GPL v3+</string>
+	<string name="copyright">© 2023 Giulio Sorrentino</string>
 </resources>

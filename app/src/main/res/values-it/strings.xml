@@ -14,4 +14,5 @@
 	<string name="is_your_anniversary">É il vostro anniversario</string>
 	<string name="is_your_mesiversary">É il vostro meseversario</string>
 	<string name="license">Questo programma è sotto GPL v3+</string>
+	<string name="copyright">© 2023 Giulio Sorrentino</string>
 </resources>

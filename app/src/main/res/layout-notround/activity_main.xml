@@ -50,6 +50,7 @@
             android:textSize="10dp"
             android:layout_marginLeft="45dp"
          android:id="@+id/textView2"
+         android:text="@string/copyright"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content" />
         <Button
