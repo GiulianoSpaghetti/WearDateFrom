@@ -6,9 +6,9 @@
     -->
 	<string name="insert_the_name">Insertar el nombre</string>
 	<string name="insert_the_date">Insertar la fecha</string>
-	<string name="calcular">Calcular</string>
+	<string name="calculate">Calcular</string>
 	<string name="you_meet">Te has conocido</string>
-	<string name="sobre">sobre</string>
+	<string name="about">sobre</string>
 	<string name="days_ago">hace días</string>
 	<string name="invalid_rvalue">Valor no válido</string>
 	<string name="is_your_anniversary">Es tu aniversario</string>

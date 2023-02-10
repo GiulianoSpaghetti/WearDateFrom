@@ -57,10 +57,14 @@ public class MainActivity extends Activity {
                         result.setText(R.string.invalid_rvalue);
                         return;
                     }
+                    if (d.before(d1)) {
+                        result.setText(R.string.invalid_rvalue);
+                        return;
+                    }
                     long diff = d.getTime() - d1.getTime();
                     diff = diff / (1000 * 3600 * 24);
                     result.setText(getString(R.string.you_meet) + " " + name.getText() + " " + getString(R.string.about)+ " " + diff + " " + getString(R.string.days_ago)+ ".");
-                    if (d.getDate() == d1.getDate())
+                    if (d.getDate() == d1.getDate() && diff > 0)
                         if (d.getMonth()== d1.getMonth())
                             anniversary.setText(R.string.is_your_anniversary);
                         else
