@@ -12,7 +12,7 @@ The datefrom for android wear. It's internazionalizated in english, italian, det
 
 # Dispositivi supportati
 
-Tutti i dispositivi montanti wear 3.5, ossia android 11. Ve li elenco, sono pochini...
+Tutti i dispositivi montanti wear 3.5, ossia android 11. Ve li elenco, sono pochini. Da donna c'è il fossil gen 6, che va aggionrato e reinizializzato.
 
 ![Schermata del 2023-07-02 06-53-30](https://github.com/numerunix/WearDateFrom/assets/49764967/5b96341d-d059-4254-9334-87ed1fc82f15)
 
