@@ -1,5 +1,5 @@
 # WearDateFrom
-Il primo programma per smartwatch che non è un videogioco dedicato alle donne.
+Il primo programma per smartwatch dedicato alle donne che non è un videogioco.
 Serve per rompere il ghiaccio durante una relazione interpersonale, ossia per approcciare.
 
 # How to download
