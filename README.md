@@ -1,6 +1,6 @@
 # WearDateFrom
-The datefrom for android wear. It's internazionalizated in english, italian, detusche, portuguese and spanish and saves preferences.
-
+Il primo programma per smartwatch che non è un videogioco dedicato alle donne.
+Serve per rompere il ghiaccio durante una relazione interpersonale, ossia per approcciare.
 
 # How to download
 
@@ -17,13 +17,12 @@ Tutti i dispositivi montanti wear 3.5, ossia android 11. Ve li elenco, sono poch
 ![Schermata del 2023-07-02 06-53-30](https://github.com/numerunix/WearDateFrom/assets/49764967/5b96341d-d059-4254-9334-87ed1fc82f15)
 
 
-# Donazioni
+# Donazione
 
-[![paypal](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H4ZHTFRCETWXG)
+[![paypal](https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JZVR4QQFGLR6Q)
 
-
-You can also donate via Hype card as long as you have my mobile number in your address book. Do you know where you can find it? On my resume.
-Open the Hype app, log in, select PAYMENTS, SEND MONEY, select my number in the address book, set the amount, ENTER THE REASON and follow the on-screen instructions.
+Puoi donare anche tramite carta Hype a patto di avere il mio numero di cellulare nella rubrica. Sai dove lo puoi trovare? Sul mio curriculum.
+Apri l'app Hype, fai il login, seleziona PAGAMENTI, INVIA DENARO, seleziona il mio numero nella rubrica, imposta l'importo, INSERISCI LA CAUSALE e segui le istruzioni a video.
 
 # Bibliografia
 
