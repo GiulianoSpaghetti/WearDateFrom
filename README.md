@@ -34,9 +34,3 @@ Tutti i dispositivi montanti wear 3.5, ossia android 11. Ve li elenco, sono poch
 ## Donazione
 
 http://numerone.altervista.org/donazioni.php
-
-## Bibliografia
-
-https://developer.android.com/training/data-storage/shared-preferences
-
-https://developer.android.com/guide/topics/resources/localization
