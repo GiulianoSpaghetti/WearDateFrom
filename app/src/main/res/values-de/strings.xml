@@ -15,4 +15,5 @@
 	<string name="is_your_mesiversary">Es ist dein Monatsjubiläum</string>
 	<string name="license">Dieses Programm steht unter GPL v3+</string>
 	<string name="copyright">© 2023 Giulio Sorrentino</string>
+	<string name="days_are_passed">Tage sind vergangen"</string>
 </resources>

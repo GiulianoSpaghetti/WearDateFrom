@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
         private TextView result, anniversary;
         private ActivityMainBinding binding;
         private DatePickerDialog datePickerDialog;
+        private static String s;
     @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
@@ -61,15 +62,20 @@ public class MainActivity extends Activity {
                         result.setText(R.string.invalid_rvalue);
                         return;
                     }
+                    s=name.getText().toString().trim();
                     long diff = d.getTime() - d1.getTime();
                     diff = diff / (1000 * 3600 * 24);
-                    result.setText(getString(R.string.you_meet) + " " + name.getText() + " " + getString(R.string.about)+ " " + diff + " " + getString(R.string.days_ago)+ ".");
-                    if (d.getDate() == d1.getDate() && diff > 0)
-                        if (d.getMonth()== d1.getMonth())
-                            anniversary.setText(R.string.is_your_anniversary);
-                        else
-                            anniversary.setText(R.string.is_your_mesiversary);
-
+                    if (s.isEmpty())
+                        result.setText(diff+" "+getString(R.string.days_are_passed));
+                    else {
+                        result.setText(getString(R.string.you_meet) + " " + s + " " + getString(R.string.about) + " " + diff + " " + getString(R.string.days_ago) + ".");
+                        if (d.getDate() == d1.getDate() && diff > 0)
+                            if (d.getMonth() == d1.getMonth())
+                                anniversary.setText(R.string.is_your_anniversary);
+                            else
+                                anniversary.setText(R.string.is_your_mesiversary);
+                    }
+                    b.setVisibility(View.INVISIBLE);
                     SharedPreferences sharedPref = getPreferences(Context.MODE_PRIVATE);
                     SharedPreferences.Editor editor = sharedPref.edit();
                     editor.putString("nome", String.valueOf(name.getText()));

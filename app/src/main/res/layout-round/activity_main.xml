@@ -9,31 +9,26 @@
         android:layout_width="match_parent"
      android:layout_height="match_parent"
      android:orientation="vertical"
-     android:padding="0dp"
-     android:background="@drawable/background">
+     android:padding="0dp">
         <TextView
             android:layout_marginLeft="50dp"
             android:layout_marginTop="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="10dp"
             android:text="@string/insert_the_name" />
         <EditText
             android:id="@+id/editText1"
-            android:textSize="10dp"
             android:layout_marginLeft="25dp"
             android:layout_marginTop="0dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:inputType="text" />
         <TextView
-            android:textSize="10dp"
             android:layout_marginLeft="15dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/insert_the_date" />
         <EditText
-            android:textSize="10dp"
             android:id="@+id/editText2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -44,18 +39,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="20dp"
-            android:text="@string/license"
-            android:textSize="10dp" />
+            android:text="@string/license" />
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="45dp"
-            android:text="@string/copyright"
-            android:textSize="10dp" />
+            android:text="@string/copyright" />
         <Button
-            android:textSize="10dp"
             android:layout_marginLeft="50dp"
             android:id="@+id/button1"
             android:layout_width="wrap_content"

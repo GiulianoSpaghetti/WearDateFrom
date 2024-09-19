@@ -15,4 +15,5 @@
 	<string name="is_your_mesiversary">C\'est votre mois anniversaire</string>
 	<string name="license">Ce programme est sous GPL v3+</string>
 	<string name="copyright">© 2023 Giulio Sorrentino</string>
+	<string name="days_are_passed">jours sont passés"</string>
 </resources>
