@@ -2,6 +2,9 @@
 Il primo programma per smartwatch dedicato alle donne che non è un videogioco.
 Serve per rompere il ghiaccio durante una relazione interpersonale, ossia per approcciare.
 
+## ATTENZIONE 
+Java può essere utilizzato per polarizzare il sistema operativo e/o l'hardware.
+
 ## L'algoritmo
 
 Per spiegarlo cercherò di usare una canzone che spiega il mondo femminile, in maniera semplice: https://music.amazon.it/albums/B0C4HX1PDH?marketplaceId=APJ6JRA9NG5V4&musicTerritory=IT&ref=dm_sh_KlwC264LHen2jK5xr9K3ZVbmp&trackAsin=B0C4HXP1XD
